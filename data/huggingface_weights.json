@@ -50,5 +50,9 @@
     "ip_plus_composition_sd15.safetensors":{
         "url": "https://huggingface.co/ostris/ip-composition-adapter/resolve/main/ip_plus_composition_sd15.safetensors?download=true",
         "dest": "ComfyUI/models/ipadapter/ip_plus_composition_sd15.safetensors"
+    },
+    "AnimateLCM_sd15_t2v_lora.safetensors":{
+        "url": "https://huggingface.co/wangfuyun/AnimateLCM/resolve/main/AnimateLCM_sd15_t2v_lora.safetensors?download=true",
+        "dest": "ComfyUI/models/loras"
     }
 }
